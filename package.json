@@ -18,11 +18,11 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "@josephboadi/joy-jobber-shared",
+  "name": "@josephboadi/joy-jobber-shared1",
   "author": "Joseph Boadi",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/josephboadi/joy-jobber-shared.git"
+    "url": "git+https://github.com/josephboadi/joy-jobber-shared1.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
